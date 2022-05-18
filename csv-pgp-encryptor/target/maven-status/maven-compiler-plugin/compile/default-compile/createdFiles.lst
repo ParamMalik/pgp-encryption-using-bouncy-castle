@@ -1,0 +1,5 @@
+com\trantor\app\model\BookModel.class
+com\trantor\app\mapper\CsvToByteArrayConverter.class
+com\trantor\app\controller\AppController.class
+com\trantor\app\CsvPgpEncryptorApplication.class
+com\trantor\app\encryptor\PgpEncryptor.class
